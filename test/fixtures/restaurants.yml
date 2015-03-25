@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  restaurant_name: MyString
+  review_count: MyString
+  latitude: 1.5
+  longitude: 1.5
+  city: MyString
+  state: MyString
+  zipcode: MyString
+  avg_rating: MyString
+
+two:
+  restaurant_name: MyString
+  review_count: MyString
+  latitude: 1.5
+  longitude: 1.5
+  city: MyString
+  state: MyString
+  zipcode: MyString
+  avg_rating: MyString
